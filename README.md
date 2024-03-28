@@ -2,7 +2,8 @@
 
 A sway-IPC hack for smooth window resizing in sway.
 
-https://github.com/feschber/smooth-resize/assets/40996949/587cdc11-a728-43eb-8cef-854a0e8dd581
+
+https://github.com/feschber/smooth-resize/assets/40996949/f48381d8-6d59-4e66-9c73-97692df767ce
 
 
 ## Installation
